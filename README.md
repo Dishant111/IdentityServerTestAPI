@@ -1,3 +1,3 @@
 # IdentityServerTestAPI
 
-test idenityt server api
+test identity server api
